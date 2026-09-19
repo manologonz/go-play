@@ -1,6 +1,8 @@
 package main
 
+import "bubblelearn/pokemon"
+
 func main() {
-	//StartSimplePlainBubble()
-	StartSimpleHuhForm()
+	//jumbotron.RunJumbotron()
+	pokemon.ChooseYourPokemon()
 }
